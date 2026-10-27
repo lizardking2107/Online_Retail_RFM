@@ -1,0 +1,8 @@
+pandas
+duckdb
+matplotlib
+seaborn
+openpyxl
+pyarrow
+kagglehub
+jupyter
